@@ -1,1 +1,2 @@
 "Configuration content" 
+"Updated configuration"  git add sample1.txt git commit -m "Update sample1.txt with new settings" 
