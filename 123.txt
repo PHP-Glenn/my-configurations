@@ -1,1 +1,15 @@
-"hi"
+C:\Users\melan\my-configurations>echo Glenn Levy Babalcon > test.txt
+
+C:\Users\melan\my-configurations>git init
+
+C:\Users\melan\my-configurations>git add .
+
+C:\Users\melan\my-configurations>git commit -m "Glenn Demonstration"
+
+C:\Users\melan\my-configurations>git remote add origin https://github.com/PHP-Glenn/my-configurations.git
+
+C:\Users\melan\my-configurations>git push -u origin master
+
+C:\Users\melan\my-configurations\my-report>git status
+On branch master
+Your branch is up to date with 'origin/master'.s
